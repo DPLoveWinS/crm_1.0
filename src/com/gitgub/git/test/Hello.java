@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("Hello GitHub");
 		System.out.println("Hello eclipse");
 		System.out.println("return eclipse");
+		System.out.println("return github");
 		
 	}
 
